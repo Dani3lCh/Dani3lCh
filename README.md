@@ -2,24 +2,25 @@
   
 # 👋 ¡Hola! Soy Daniel
   
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=28&pause=1000&color=36BCF7&center=true&vCenter=true&width=600&lines=Fullstack+Developer;Apasionado+por+la+tecnología" alt="Typing SVG" />
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=28&pause=1000&color=36BCF7&center=true&vCenter=true&width=600&lines=Fullstack+Developer;Creando+experiencias+digitales;Apasionado+por+la+tecnología" alt="Typing SVG" />
 
 </div>
 
 <div align="center">
-🚀 Sobre mí
-<img src="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake-dark.svg" width="100%" alt="Snake animation" />
-```javascript
+  
+## 🚀 Sobre mí
+
+```typescript
 const daniel = {
-    role: "Fullstack Developer",
-    passion: ["Clean Code", "User Experience", "Problem Solving"],
-    currentlyLearning: "Always something new! 🌱",
-    motto: "Code with purpose, build with passion"
+  role: "Fullstack Developer",
+  passion: ["Clean Code", "User Experience", "Problem Solving"],
+  currentlyLearning: "Always something new! 🌱",
+  motto: "Code with purpose, build with passion"
 }
-
-
 ```
+
 </div>
+
 <br>
 
 ## 🛠️ Stack Tecnológico
@@ -39,9 +40,24 @@ const daniel = {
 
 <br>
 
+## 📊 GitHub Stats
+
+<div align="center">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Dani3lCh&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Dani3lCh&layout=compact&theme=tokyonight"/>
+</div>
+
+<div align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=Dani3lCh&theme=tokyonight&hide_border=true&date_format=M%20j%5B%2C%20Y%5D" alt="GitHub Streak" />
+</div>
 
 <br>
 
+## 🏆 Logros GitHub
+
+<div align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=Dani3lCh&theme=tokyonight&no-frame=true&no-bg=false&margin-w=4&row=1" />
+</div>
 
 <br>
 
@@ -56,6 +72,9 @@ const daniel = {
 ## 🌟 Proyectos Destacados
 
 <div align="center">
+  
+[![Proyecto 1](https://github-readme-stats.vercel.app/api/pin/?username=Dani3lCh&repo=nombre-proyecto-1&theme=tokyonight)](https://github.com/Dani3lCh/nombre-proyecto-1)
+[![Proyecto 2](https://github-readme-stats.vercel.app/api/pin/?username=Dani3lCh&repo=nombre-proyecto-2&theme=tokyonight)](https://github.com/Dani3lCh/nombre-proyecto-2)
 
 </div>
 
@@ -73,4 +92,24 @@ const daniel = {
 
 <br>
 
+## 💡 Quote del día
 
+<div align="center">
+  
+![Quote](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight)
+
+</div>
+
+<br>
+
+<div align="center">
+  
+### 👁️ Visitas al perfil
+  
+<img src="https://visitor-badge.laobi.icu/badge?page_id=Dani3lCh.Dani3lCh&style=flat-square&color=0088cc" />
+
+---
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer" />
+
+</div>
