@@ -40,16 +40,6 @@ const daniel = {
 
 <br>
 
-## 📊 GitHub Stats
-
-<div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Dani3lCh&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Dani3lCh&layout=compact&theme=tokyonight"/>
-</div>
-
-<div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=Dani3lCh&theme=tokyonight&hide_border=true&date_format=M%20j%5B%2C%20Y%5D" alt="GitHub Streak" />
-</div>
 
 <br>
 
@@ -72,9 +62,6 @@ const daniel = {
 ## 🌟 Proyectos Destacados
 
 <div align="center">
-  
-[![Proyecto 1](https://github-readme-stats.vercel.app/api/pin/?username=Dani3lCh&repo=nombre-proyecto-1&theme=tokyonight)](https://github.com/Dani3lCh/nombre-proyecto-1)
-[![Proyecto 2](https://github-readme-stats.vercel.app/api/pin/?username=Dani3lCh&repo=nombre-proyecto-2&theme=tokyonight)](https://github.com/Dani3lCh/nombre-proyecto-2)
 
 </div>
 
@@ -92,24 +79,4 @@ const daniel = {
 
 <br>
 
-## 💡 Quote del día
 
-<div align="center">
-  
-![Quote](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight)
-
-</div>
-
-<br>
-
-<div align="center">
-  
-### 👁️ Visitas al perfil
-  
-<img src="https://visitor-badge.laobi.icu/badge?page_id=Dani3lCh.Dani3lCh&style=flat-square&color=0088cc" />
-
----
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer" />
-
-</div>
