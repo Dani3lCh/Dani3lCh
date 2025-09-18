@@ -44,15 +44,7 @@
   <img src="https://visitor-badge.laobi.icu/badge?page_id=Dani3lCh.Dani3lCh&"  />
 </div>
 
-###
 
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Dani3lCh/Dani3lCh/output/pacman-contribution-graph-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Dani3lCh/Dani3lCh/output/pacman-contribution-graph.svg">
-  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/Dani3lCh/Dani3lCh/output/pacman-contribution-graph.svg">
-</picture>
-
-###
 
 <div align="center">
   <a href="https://www.linkedin.com/in/cesar-chirinos-014675280/" target="_blank">
