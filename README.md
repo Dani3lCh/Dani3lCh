@@ -2,11 +2,11 @@
 
 ###
 
-<h2 align="center">i'm Daniel  Fullstack developer in Honduras</h2>
+<h2 align="center">i'm Daniel  Fullstack developer </h2>
 
 ###
 
-<h2 align="center">my stack</h2>
+<h2 align="center">Skills</h2>
 
 ###
 
