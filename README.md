@@ -16,6 +16,8 @@ const daniel = {
     currentlyLearning: "Always something new! 🌱",
     motto: "Code with purpose, build with passion"
 }
+
+
 ```
 </div>
 <br>
