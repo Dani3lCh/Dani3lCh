@@ -1,61 +1,115 @@
-<h3 align="center">Hi!!</h3>
-
-###
-
-<h2 align="center">i'm Daniel  Fullstack developer </h2>
-
-###
-
-<h2 align="center">Skills</h2>
-
-###
-
 <div align="center">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" alt="javascript logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="40" alt="typescript logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=vue" height="40" alt="vuejs logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=react" height="40" alt="react logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=php" height="40" alt="php logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=laravel" height="40" alt="laravel logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=mysql" height="40" alt="mysql logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=bootstrap" height="40" alt="bootstrap logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=tailwind" height="40" alt="tailwindcss logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=discord" height="40" alt="discord logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=git" height="40" alt="git logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=github" height="40" alt="github logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=vercel" height="40" alt="vercel logo"  />
+  
+# 👋 ¡Hola! Soy Daniel
+  
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=28&pause=1000&color=36BCF7&center=true&vCenter=true&width=600&lines=Fullstack+Developer;Creando+experiencias+digitales;Apasionado+por+la+tecnología" alt="Typing SVG" />
+
 </div>
 
-###
-
 <div align="center">
-  <img src="https://visitor-badge.laobi.icu/badge?page_id=Dani3lCh.Dani3lCh&"  />
+  
+## 🚀 Sobre mí
+
+```typescript
+const daniel = {
+  role: "Fullstack Developer",
+  passion: ["Clean Code", "User Experience", "Problem Solving"],
+  currentlyLearning: "Always something new! 🌱",
+  motto: "Code with purpose, build with passion"
+}
+```
+
 </div>
 
+<br>
 
+## 🛠️ Stack Tecnológico
 
 <div align="center">
-  <a href="https://www.linkedin.com/in/cesar-chirinos-014675280/" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="52" height="40" alt="linkedin logo"  />
-  </a>
-  <a href="https://www.instagram.com/chirinosdniel/" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/instagram/default.svg" width="52" height="40" alt="instagram logo"  />
-  </a>
-  <a href="https://linktr.ee/dani3lchirinos" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linktree/default.svg" width="52" height="40" alt="linktree logo"  />
-  </a>
+
+### Frontend
+<img src="https://skillicons.dev/icons?i=html,css,js,ts,vue,react,bootstrap,tailwind&perline=8" />
+
+### Backend  
+<img src="https://skillicons.dev/icons?i=php,laravel,nodejs,mysql&perline=4" />
+
+### Herramientas
+<img src="https://skillicons.dev/icons?i=git,github,vscode,vercel,discord&perline=5" />
+
 </div>
 
-###
+<br>
+
+## 📊 GitHub Stats
+
+<div align="center">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Dani3lCh&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Dani3lCh&layout=compact&theme=tokyonight"/>
+</div>
+
+<div align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=Dani3lCh&theme=tokyonight&hide_border=true&date_format=M%20j%5B%2C%20Y%5D" alt="GitHub Streak" />
+</div>
+
+<br>
+
+## 🏆 Logros GitHub
+
+<div align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=Dani3lCh&theme=tokyonight&no-frame=true&no-bg=false&margin-w=4&row=1" />
+</div>
+
+<br>
+
+## 📈 Actividad
+
+<div align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Dani3lCh&bg_color=1a1b27&color=38bdae&line=70a5fd&point=bf91f3&area=true&hide_border=true" />
+</div>
+
+<br>
+
+## 🌟 Proyectos Destacados
+
+<div align="center">
+  
+[![Proyecto 1](https://github-readme-stats.vercel.app/api/pin/?username=Dani3lCh&repo=nombre-proyecto-1&theme=tokyonight)](https://github.com/Dani3lCh/nombre-proyecto-1)
+[![Proyecto 2](https://github-readme-stats.vercel.app/api/pin/?username=Dani3lCh&repo=nombre-proyecto-2&theme=tokyonight)](https://github.com/Dani3lCh/nombre-proyecto-2)
+
+</div>
+
+<br>
+
+## 🤝 Conecta conmigo
+
+<div align="center">
+  
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/cesar-chirinos-014675280/)
+[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/chirinosdniel/)
+[![Linktree](https://img.shields.io/badge/linktree-39E09B?style=for-the-badge&logo=linktree&logoColor=white)](https://linktr.ee/dani3lchirinos)
+
+</div>
+
+<br>
+
+## 💡 Quote del día
+
+<div align="center">
+  
+![Quote](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight)
+
+</div>
+
+<br>
+
+<div align="center">
+  
+### 👁️ Visitas al perfil
+  
+<img src="https://visitor-badge.laobi.icu/badge?page_id=Dani3lCh.Dani3lCh&style=flat-square&color=0088cc" />
+
+---
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer" />
+
+</div>
