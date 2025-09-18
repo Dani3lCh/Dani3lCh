@@ -8,31 +8,15 @@
 
 <div align="center">
 🚀 Sobre mí
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=22&pause=1000&color=36BCF7&center=true&vCenter=true&width=800&lines=Transformando+ideas+en+código;Creando+experiencias+digitales+únicas;Siempre+aprendiendo+algo+nuevo" alt="Typing SVG" />
+<img src="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake-dark.svg" width="100%" alt="Snake animation" />
 ```javascript
 const daniel = {
-    role: "💻 Fullstack Developer",
-    location: "🌍 Honduras",
-    languages: ["JavaScript", "TypeScript", "PHP"],
-    frameworks: ["Vue.js", "React", "Laravel"],
-    databases: ["MySQL", "MongoDB"],
-    tools: ["Git", "Docker", "VS Code"],
-    currentFocus: "🎯 Building scalable web applications",
-    passion: [
-        "Clean Code 🧹",
-        "User Experience 🎨", 
-        "Problem Solving 🧩",
-        "Continuous Learning 📚"
-    ],
+    role: "Fullstack Developer",
+    passion: ["Clean Code", "User Experience", "Problem Solving"],
     currentlyLearning: "Always something new! 🌱",
-    funFact: "I debug with console.log() and I'm not ashamed! 😄",
-    motto: "Code with purpose, build with passion ✨"
-};
-console.log("Welcome to my profile! 👋");
-
-<img src="https://github-readme-stats.vercel.app/api?username=Dani3lCh&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&border_radius=10" alt="GitHub Stats" height="165"/>
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Dani3lCh&layout=compact&theme=tokyonight&border_radius=10" alt="Top Languages" height="165"/>
-
+    motto: "Code with purpose, build with passion"
+}
+```
 </div>
 <br>
 
