@@ -8,18 +8,7 @@
 
 <div align="center">
   
-## 🚀 Sobre mí
 
-```typescript
-const daniel = {
-  role: "Fullstack Developer",
-  passion: ["Clean Code", "User Experience", "Problem Solving"],
-  currentlyLearning: "Always something new! 🌱",
-  motto: "Code with purpose, build with passion"
-}
-```
-
-</div>
 
 <br>
 
