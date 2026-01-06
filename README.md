@@ -41,16 +41,6 @@ Soy desarrollador de software fullstack con interés en crear aplicaciones limpi
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=Dani3lCh&bg_color=1a1b27&color=38bdae&line=70a5fd&point=bf91f3&area=true&hide_border=true" alt="Activity Graph" />
 </div>
 
----
-
-## 🤝 Conecta conmigo
-
-<div align="center">
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/cesar-chirinos-014675280/)
-[![Linktree](https://img.shields.io/badge/linktree-39E09B?style=for-the-badge&logo=linktree&logoColor=white)](https://linktr.ee/dani3lchirinos)
-</div>
-
----
 
 
 <div align="center">
