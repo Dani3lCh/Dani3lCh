@@ -26,7 +26,7 @@ Soy desarrollador de software fullstack con interés en crear aplicaciones limpi
 <img src="https://skillicons.dev/icons?i=html,css,js,ts,vue,react,bootstrap,tailwind&perline=8" alt="Frontend icons" />
 
 ### Backend  
-<img src="https://skillicons.dev/icons?i=php,laravel,nodejs,mysql,typescript&perline=4" alt="Backend icons" />
+<img src="https://skillicons.dev/icons?i=php,laravel,nodejs,mysql,postgresql,typescript&perline=4" alt="Backend icons" />
 
 ### Herramientas
 <img src="https://skillicons.dev/icons?i=git,github,vscode,vercel,linux,discord&perline=5" alt="Tools icons" />
