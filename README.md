@@ -1,10 +1,8 @@
 <div align="center">
   
-# 👋 ¡Hola! Soy Daniel — Desarrollador Fullstack
-
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=28&pause=1000&color=36BCF7&center=true&vCenter=true&width=600&lines=Fullstack+Developer;Apasionado+por+la+tecnología" alt="Typing SVG" />
-
+<img width="1584" height="396" alt="2" src="https://github.com/user-attachments/assets/ee30bf02-98cd-478a-897a-0eb732eaeb9e" />
 </div>
+
 
 ---
 
