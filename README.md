@@ -12,7 +12,7 @@ Soy desarrollador de software fullstack con interés en crear aplicaciones limpi
 
 - 🔭 Actualmente trabajando en: proyectos personales 
 - 💡 Intereses: arquitectura web, APIs, interfaces modernas y optimización
-- 🌱 Aprendiendo: mejores patrones en backend y DevOps básicos
+- 
 
 ---
 
