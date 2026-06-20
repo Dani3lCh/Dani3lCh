@@ -8,11 +8,7 @@
 
 ## Sobre mí
 
-Soy desarrollador de software fullstack con interés en crear aplicaciones limpias, escalables y con buenas prácticas. Me gusta aprender nuevas tecnologías.
-
-- 🔭 Actualmente trabajando en: proyectos personales 
-- 💡 Intereses: arquitectura web, APIs, interfaces modernas y optimización
-
+ desarrollador de software fullstack 
 
 ---
 
