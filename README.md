@@ -6,13 +6,13 @@
 
 ---
 
-## Sobre mí
+## About me
 
- desarrollador de software fullstack 
+ Software developer fullstack 
 
 ---
 
-## 🛠️ Stack Tecnológico
+## 🛠️ My Stack
 
 <div align="center">
 
@@ -22,14 +22,14 @@
 ### Backend  
 <img src="https://skillicons.dev/icons?i=php,laravel,nodejs,mysql,postgresql,typescript&perline=4" alt="Backend icons" />
 
-### Herramientas
+### Tools
 <img src="https://skillicons.dev/icons?i=git,github,vscode,vercel,linux,discord&perline=5" alt="Tools icons" />
 
 </div>
 
 
 
-## 📈 Actividad
+## 📈 Activity
 
 <div align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=Dani3lCh&bg_color=1a1b27&color=38bdae&line=70a5fd&point=bf91f3&area=true&hide_border=true" alt="Activity Graph" />
