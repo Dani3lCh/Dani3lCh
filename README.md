@@ -12,20 +12,7 @@
 
 ---
 
-## 🛠️ My Stack
 
-<div align="center">
-
-### Frontend
-<img src="https://skillicons.dev/icons?i=html,css,js,ts,vue,react,bootstrap,tailwind&perline=8" alt="Frontend icons" />
-
-### Backend  
-<img src="https://skillicons.dev/icons?i=php,laravel,nodejs,mysql,postgresql,typescript&perline=4" alt="Backend icons" />
-
-### Tools
-<img src="https://skillicons.dev/icons?i=git,github,vscode,vercel,linux,discord&perline=5" alt="Tools icons" />
-
-</div>
 
 
 
