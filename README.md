@@ -28,8 +28,7 @@ dani3lch@dev:~$ cat focus.txt
 dani3lch@dev:~$ echo $CURRENTLY_LEARNING
 > Go · Arquitectura cloud en AWS
 
-dani3lch@dev:~$ cat contact.txt
-> agregá acá tu correo / LinkedIn
+
 ```
 
 <br/>
