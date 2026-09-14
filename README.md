@@ -26,7 +26,7 @@ dani3lch@dev:~$ cat focus.txt
 > Construyendo productos end-to-end: UI, APIs, bases de datos e infraestructura cloud.
 
 dani3lch@dev:~$ echo $CURRENTLY_LEARNING
-> Go · Arquitectura cloud en AWS
+> Go · Aprendiendo Go junto a AWS
 
 
 ```
