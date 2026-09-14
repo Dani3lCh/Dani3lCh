@@ -94,7 +94,7 @@ dani3lch@dev:~$ echo $CURRENTLY_LEARNING
 <!-- Reemplazá los "#" por tus links reales -->
 <a href="https://www.linkedin.com/in/c3sarchirinos/"><img src="https://img.shields.io/badge/LinkedIn-0a0e17?style=for-the-badge&logo=linkedin&logoColor=00e5ff" /></a>
 
-<a href="[https://cesardevhn.vercel.app](https://portafolio-2026-tawny.vercel.app/)/"><img src="https://img.shields.io/badge/Portfolio-0a0e17?style=for-the-badge&logo=vercel&logoColor=a855f7" /></a>
+<a href="https://portafolio-2026-tawny.vercel.app/"><img src="https://img.shields.io/badge/Portfolio-0a0e17?style=for-the-badge&logo=vercel&logoColor=a855f7" /></a>
 
 <br/><br/>
 
