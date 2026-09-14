@@ -75,13 +75,7 @@ const dani = {
 
 <br/>
 
-## 📈 Activity
 
-<div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Dani3lCh&bg_color=1a1b27&color=38bdae&line=70a5fd&point=bf91f3&area=true&hide_border=true" alt="Activity Graph" width="100%" />
-</div>
-
-<br/>
 
 ## 🌐 Conectemos
 
